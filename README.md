@@ -1,1 +1,1 @@
-# holberton-system_engineering-devops
+This is the repository containing the exercises of the OXOO section "Shell Basics". 
