@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c":" -f6 | sort
+sort | cut -c ":" -f6
